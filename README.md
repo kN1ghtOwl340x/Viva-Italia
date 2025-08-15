@@ -17,7 +17,7 @@
 ## 🛠 Installation
 1. Clone the repository  
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/kN1ghtOwl340x/Viva-Italia
 
 ---
 
