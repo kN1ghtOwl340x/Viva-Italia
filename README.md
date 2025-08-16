@@ -15,7 +15,7 @@
 - Clean and modern UI.
 - Easy to customize.
 
-##📱Demo
+## 📱Demo
 - [Click here](https://kn1ghtowlx.github.io/Viva-Italia/)
 
 ## 🛠 Installation
