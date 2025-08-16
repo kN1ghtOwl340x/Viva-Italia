@@ -26,8 +26,7 @@
 
   ## 🖥 Tech Stack
   - HTML5  
-  - CSS3 (Flexbox, Animations)  
-  - JavaScript (Smooth Scroll)
+  - CSS3 (Flexbox, Grid, Animations)  
 ___
 
 
