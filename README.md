@@ -1,5 +1,4 @@
 # 🌟 Viva Italia
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 > 🚀 A responsive portfolio website built using HTML, CSS, and JavaScript with smooth scrolling effects and clean UI.
 ## 📚 Table of Contents
 - [Features](#features)
