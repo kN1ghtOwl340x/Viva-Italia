@@ -1,5 +1,4 @@
 # 🌟 Viva Italia
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 > 🚀 A responsive portfolio website built using HTML, CSS, and JavaScript with smooth scrolling effects and clean UI.
 ## 📚 Table of Contents
 - [Features](#features)
@@ -15,7 +14,7 @@
 - Clean and modern UI.
 - Easy to customize.
 
-##📱Demo
+## 📱Demo
 - [Click here](https://kn1ghtowlx.github.io/Viva-Italia/)
 
 ## 🛠 Installation
@@ -27,8 +26,7 @@
 
   ## 🖥 Tech Stack
   - HTML5  
-  - CSS3 (Flexbox, Animations)  
-  - JavaScript (Smooth Scroll)
+  - CSS3 (Flexbox, Grid, Animations)  
 ___
 
 
